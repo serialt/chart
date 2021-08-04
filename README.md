@@ -1,4 +1,4 @@
-# chart
+# helm chart
 
 `serialt`的`chart`仓库地址为`https://serialt.github.io/chart`
 
