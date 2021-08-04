@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-08-04T14:20:15.57555906+08:00"
+    description: A Helm chart for Kubernetes
+    digest: b030cd099961b0140c41a8ea2df962b41042bfd1ac06baef9a4334878dfa9d8c
+    name: test
+    type: application
+    urls:
+    - https://serialt.github.io/helm-chart/test-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-08-04T14:20:15.574639128+08:00"
