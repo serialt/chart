@@ -1,13 +1,13 @@
-# helm-chart
+# chart
 
-`serialt`的`chart`仓库地址为`https://serialt.github.io/helm-chart`
+`serialt`的`chart`仓库地址为`https://serialt.github.io/chart`
 
 
 
 1、添加chart仓库
 
 ```
-[root@serialt ~]# helm repo add serialt https://serialt.github.io/helm-chart
+[root@serialt ~]# helm repo add serialt https://serialt.github.io/chart
 ```
 
 2、添加成功
@@ -15,7 +15,7 @@
 ```
 [root@serialt ~]# helm repo list
 NAME    URL                                 
-serialt https://serialt.github.io/helm-chart
+serialt https://serialt.github.io/chart
 ```
 
 3、搜索chart包
